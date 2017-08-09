@@ -1,0 +1,113 @@
+* {
+  box-sizing: border-box;
+}
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: rgba(11, 11, 11, 1);
+  font-size: 16px;
+  width: 100vw;
+  height: 100vh;
+  min-width: 100vw;
+  min-height: 100vh;
+}
+.list-lecturers {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  min-height: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: stretch;
+}
+.list-lecturers-content {
+  position: relative;
+  flex: 1 1 80%;
+}
+.list-lecturers-left, 
+.list-lecturers-right {
+  position: relative;
+  flex: 1 1 10%;
+}
+.lecturer {
+  position: absolute;
+  display: none;
+  width: 280px;
+  top: 50%;
+  left: 50%;
+  margin-top: -191px;
+  margin-left: -140px;
+}
+.lecturer:first-of-type {
+  display: block;
+}
+.lecturer__meta {
+  position: absolute;
+  top: 0;
+  right: 0;
+
+  background: rgba(242, 242, 242, 1);
+  margin: 0;
+  padding: 8px;
+}
+.lecturer__gender {
+  margin-right : 8px;
+}
+.lecturer__name {
+  background: rgba(242, 242, 242, 1);
+  margin: 0;
+  padding: 8px;
+  font-size: 1.6rem;
+  text-align: center;
+  height: 64px;
+}
+.lecturer__picture {
+  display: block;
+  width: 100%;
+  height: 256px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.lecturer__picture > img {
+  min-width: 100%;
+  min-height: 100%;
+}
+.lecturer__actions {
+  text-align: center;
+  padding: 8px;
+}
+.like, .dislike {
+  border: 2px solid #ea2b31;
+  border-radius: 50%;
+
+  display: inline-block;
+  width :48px;
+  height: 48px;
+  line-height: 48px;
+  overflow: hidden;
+
+  color: #ea2b31;
+}
+.like {
+  margin-right: 16px;
+}
+.like:hover {
+  background: #ea2b31;
+  color: rgba(242, 242, 242, 1);
+  cursor: hand;
+  cursor: pointer;
+}
+.dislike {
+  border-color: #2b65f8;
+  color: #2b65f8;
+}
+.dislike:hover {
+  background: #2b65f8;
+  color: rgba(242, 242, 242, 1);
+  cursor: hand;
+  cursor: pointer;
+}
