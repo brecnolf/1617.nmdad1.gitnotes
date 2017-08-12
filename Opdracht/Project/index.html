@@ -17,15 +17,14 @@
     <main>
         <!-- input -->
         <form class="submit">
-            <input type="url" placeholder="Your location...">
-            <button type="submit">Mobilize Me</button>
+            <button type="submit">Find solutions near me!</button>
         </form>  
         <!-- ./input -->
 
         <!-- output -->
         <div class="wrapper">
             <div class="content">
-                <p><strong>Enter a valid location, i.e.</strong> Koornmarkt</p>
+                <p class="subtitle"><strong>Please allow your browser to access your location.</strong></p>
                 <div data-icon="ei-location" data-size="l" class="foo"></div>
                 
 <!-- first try map 
@@ -42,7 +41,6 @@
 
 
 <div id="map"></div>
-<div id="google">
     <script>
       // Note: This example requires that you consent to location sharing when
       // prompted by your browser. If you see the error "The Geolocation service
@@ -51,8 +49,8 @@
       var map, infoWindow;
       function initMap() {
         map = new google.maps.Map(document.getElementById('map'), {
-          center: {lat: -34.397, lng: 150.644},
-          zoom: 6
+          center: {lat: -51.082, lng: 3.574},
+          zoom: 11
         });
         infoWindow = new google.maps.InfoWindow;
 
@@ -65,7 +63,7 @@
             };
 
             infoWindow.setPosition(pos);
-            infoWindow.setContent('Location found.');
+            infoWindow.setContent('Uw locatie');
             infoWindow.open(map);
             map.setCenter(pos);
           }, function() {
@@ -90,7 +88,7 @@
     </script>
             </div>
         </div>
-        </div>
+    
         <!-- ./output -->
     </main>
     <footer></footer>

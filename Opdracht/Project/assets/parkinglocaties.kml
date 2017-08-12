@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Schema name="Parking_1" id="Parking_1">
+            <SimpleField type="string" name="parking"/>
+            <SimpleField type="string" name="naam"/>
+            <SimpleField type="string" name="URL"/>
+            <SimpleField type="string" name="Type"/>
+            <SimpleField type="string" name="GentID"/>
+            <SimpleField type="string" name="parkingregime"/>
+        </Schema>
+        <Folder>
+            <name>Parking</name>
+            <Placemark id="Parking.1">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Parking_1">
+                        <SimpleData name="parking">P1</SimpleData>
+                        <SimpleData name="naam">Vrijdagmarkt</SimpleData>
+                        <SimpleData name="URL">https://mobiliteit.stad.gent/p1-vrijdagmarkt</SimpleData>
+                        <SimpleData name="Type">Parking</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>3.7256391521785526,51.056985443183066</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Parking.2">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Parking_1">
+                        <SimpleData name="parking">P2</SimpleData>
+                        <SimpleData name="naam">Reep</SimpleData>
+                        <SimpleData name="URL">https://mobiliteit.stad.gent/p2-reep</SimpleData>
+                        <SimpleData name="Type">Parking</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>3.7306400059915905,51.051990979195196</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Parking.3">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Parking_1">
+                        <SimpleData name="parking">P3</SimpleData>
+                        <SimpleData name="naam">Zuid</SimpleData>
+                        <SimpleData name="URL">http://www.interparking.be/nl/find-parking/Gent%20Zuid/</SimpleData>
+                        <SimpleData name="Type">Parking</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>3.730719917424322,51.0476064616916</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Parking.4">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Parking_1">
+                        <SimpleData name="parking">P4</SimpleData>
+                        <SimpleData name="naam">Savaanstraat</SimpleData>
+                        <SimpleData name="URL">https://mobiliteit.stad.gent/savaanstraat</SimpleData>
+                        <SimpleData name="Type">Parking</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>3.7231853923018985,51.048885505334795</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Parking.5">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Parking_1">
+                        <SimpleData name="parking">P5</SimpleData>
+                        <SimpleData name="naam">Kouter</SimpleData>
+                        <SimpleData name="URL">http://www.interparking.be/nl/find-parking/Kouter/</SimpleData>
+                        <SimpleData name="Type">Parking</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>3.723697899137771,51.05013053916042</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Parking.6">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Parking_1">
+                        <SimpleData name="parking">P7</SimpleData>
+                        <SimpleData name="naam">Sint-Michiels</SimpleData>
+                        <SimpleData name="URL">https://mobiliteit.stad.gent/p7-sint-michiels</SimpleData>
+                        <SimpleData name="Type">Parking</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>3.7184688759375044,51.05353737522317</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Parking.7">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Parking_1">
+                        <SimpleData name="parking">P8</SimpleData>
+                        <SimpleData name="naam">Ramen</SimpleData>
+                        <SimpleData name="URL">https://mobiliteit.stad.gent/p8-ramen</SimpleData>
+                        <SimpleData name="Type">Parking</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>3.7163953378863144,51.05535417695861</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Parking.8">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Parking_1">
+                        <SimpleData name="parking">P10</SimpleData>
+                        <SimpleData name="naam">Sint-Pietersplein</SimpleData>
+                        <SimpleData name="URL">https://mobiliteit.stad.gent/p10-sint-pietersplein</SimpleData>
+                        <SimpleData name="Type">Parking</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>3.7259489856116166,51.042098485992305</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Parking.9">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Parking_1">
+                        <SimpleData name="parking">P6</SimpleData>
+                        <SimpleData name="naam">Center parking</SimpleData>
+                        <SimpleData name="URL">http://www.interparking.be/nl/find-parking/Center%20parking/</SimpleData>
+                        <SimpleData name="Type">Parking</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>3.722362782538333,51.05098536273494</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Parking.10">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Parking_1">
+                        <SimpleData name="parking">P+R</SimpleData>
+                        <SimpleData name="naam">Gentbrugge</SimpleData>
+                        <SimpleData name="URL">https://mobiliteit.stad.gent/met-de-auto/parkride-pr</SimpleData>
+                        <SimpleData name="Type">Park and Ride</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>3.756416920524284,51.03509547895176</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Parking.11">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Parking_1">
+                        <SimpleData name="parking">P+R</SimpleData>
+                        <SimpleData name="naam">Wondelgem </SimpleData>
+                        <SimpleData name="URL">https://mobiliteit.stad.gent/met-de-auto/parkride-pr</SimpleData>
+                        <SimpleData name="Type">Park and Ride</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>3.711386900495647,51.09850171139607</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Parking.12">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Parking_1">
+                        <SimpleData name="parking">P+R</SimpleData>
+                        <SimpleData name="naam">Wondelgem - Blauwstraat</SimpleData>
+                        <SimpleData name="URL">https://mobiliteit.stad.gent/met-de-auto/parkride-pr</SimpleData>
+                        <SimpleData name="Type">Park and Ride deel van Neptunus</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>3.706021530103232,51.08630460820166</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Parking.13">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Parking_1">
+                        <SimpleData name="parking">P+R</SimpleData>
+                        <SimpleData name="naam">Mariakerke Post</SimpleData>
+                        <SimpleData name="URL">https://mobiliteit.stad.gent/met-de-auto/parkride-pr</SimpleData>
+                        <SimpleData name="Type">Park and Ride</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>3.678371327267522,51.07623906111089</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Parking.14">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Parking_1">
+                        <SimpleData name="parking">P+R</SimpleData>
+                        <SimpleData name="naam">The Loop/Expo</SimpleData>
+                        <SimpleData name="URL">https://mobiliteit.stad.gent/met-de-auto/parkride-pr</SimpleData>
+                        <SimpleData name="Type">Park and Ride</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>3.6951931397520856,51.02448297604931</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Parking.15">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Parking_1">
+                        <SimpleData name="parking">P+R</SimpleData>
+                        <SimpleData name="naam">Oostakker</SimpleData>
+                        <SimpleData name="URL">https://mobiliteit.stad.gent/met-de-auto/parkride-pr</SimpleData>
+                        <SimpleData name="Type">Park and Ride</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>3.7772677776694312,51.07399016045148</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Parking.16">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Parking_1">
+                        <SimpleData name="parking">P+R</SimpleData>
+                        <SimpleData name="naam">Moscou</SimpleData>
+                        <SimpleData name="URL">https://mobiliteit.stad.gent/met-de-auto/parkride-pr</SimpleData>
+                        <SimpleData name="Type">Park and Ride</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>3.750786490529204,51.02941770194713</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Parking.17">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Parking_1">
+                        <SimpleData name="parking">Pdampoort</SimpleData>
+                        <SimpleData name="naam">Dampoort</SimpleData>
+                        <SimpleData name="URL">http://www.b-parking.be/info/nl/mycarpark/181-gent-dampoort?start=1</SimpleData>
+                        <SimpleData name="Type">Parking</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>3.73955763930922,51.056092501691275</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Parking.18">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Parking_1">
+                        <SimpleData name="parking">Ptolhuis</SimpleData>
+                        <SimpleData name="naam">Tolhuis</SimpleData>
+                        <SimpleData name="URL">https://mobiliteit.stad.gent/p-tolhuis</SimpleData>
+                        <SimpleData name="Type">Parking</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>3.7255850241911124,51.06436349665838</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Parking.19">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Parking_1">
+                        <SimpleData name="parking">Pstation</SimpleData>
+                        <SimpleData name="naam">Gent Sint-Pieters</SimpleData>
+                        <SimpleData name="URL">http://www.b-parking.be/info/nl/mycarpark/67-gentstpieters?start=1</SimpleData>
+                        <SimpleData name="Type">Parking</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>3.7050173285999417,51.036860797482035</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Parking.20">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Parking_1">
+                        <SimpleData name="parking">P+R</SimpleData>
+                        <SimpleData name="naam">Neptunus</SimpleData>
+                        <SimpleData name="URL">https://mobiliteit.stad.gent/met-de-auto/parkride-pr</SimpleData>
+                        <SimpleData name="Type">Park and Ride</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>3.704960719465685,51.08709013171009</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Parking.21">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Parking_1">
+                        <SimpleData name="parking">P+R</SimpleData>
+                        <SimpleData name="naam">Watersportbaan</SimpleData>
+                        <SimpleData name="URL">https://mobiliteit.stad.gent/met-de-auto/parkride-pr</SimpleData>
+                        <SimpleData name="Type">Park and Ride</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>3.6853752319247013,51.04997902362252</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Parking.22">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Parking_1">
+                        <SimpleData name="parking">P+R</SimpleData>
+                        <SimpleData name="naam">Bourgoyen</SimpleData>
+                        <SimpleData name="URL">https://mobiliteit.stad.gent/met-de-auto/parkride-pr</SimpleData>
+                        <SimpleData name="Type">Park and Ride</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>3.68175852655594,51.067404657676065</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Parking.23">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Parking_1">
+                        <SimpleData name="parking">P+Rt</SimpleData>
+                        <SimpleData name="naam">Sint-Pietersstation</SimpleData>
+                        <SimpleData name="URL">https://mobiliteit.stad.gent/met-de-auto/parkride-pr</SimpleData>
+                        <SimpleData name="Type">Park and Ride toekomst</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>3.7051057794177478,51.03709952484849</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Parking.24">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Parking_1">
+                        <SimpleData name="parking">P+R</SimpleData>
+                        <SimpleData name="naam">Muide </SimpleData>
+                        <SimpleData name="URL">https://mobiliteit.stad.gent/met-de-auto/parkride-pr</SimpleData>
+                        <SimpleData name="Type">Park and Ride</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>3.734878606048414,51.07357607979363</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Parking.25">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Parking_1">
+                        <SimpleData name="parking">P+R</SimpleData>
+                        <SimpleData name="naam">Gentbrugge Arsenaal</SimpleData>
+                        <SimpleData name="URL">https://mobiliteit.stad.gent/met-de-auto/parkride-pr</SimpleData>
+                        <SimpleData name="Type">Park and Ride</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>3.758366896206484,51.03254780980849</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Parking.26">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Parking_1">
+                        <SimpleData name="parking">P+R</SimpleData>
+                        <SimpleData name="naam">Maaltebruggepark</SimpleData>
+                        <SimpleData name="URL">https://mobiliteit.stad.gent/met-de-auto/parkride-pr</SimpleData>
+                        <SimpleData name="Type">Park and Ride</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>3.7031287509707926,51.022983892259155</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Parking.27">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Parking_1">
+                        <SimpleData name="parking">P+Rt</SimpleData>
+                        <SimpleData name="naam">Rozebroeken</SimpleData>
+                        <SimpleData name="URL">https://mobiliteit.stad.gent/met-de-auto/parkride-pr</SimpleData>
+                        <SimpleData name="Type">Park and Ride toekomst</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>3.7618354190792362,51.06049514091514</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Parking.28">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Parking_1">
+                        <SimpleData name="parking">P+R</SimpleData>
+                        <SimpleData name="naam">Weba/Decathlon</SimpleData>
+                        <SimpleData name="URL">https://mobiliteit.stad.gent/met-de-auto/parkride-pr</SimpleData>
+                        <SimpleData name="Type">Park and Ride</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>3.7430250949834214,51.07362055243305</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Parking.29">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Parking_1">
+                        <SimpleData name="parking">P+R</SimpleData>
+                        <SimpleData name="naam">Hekers</SimpleData>
+                        <SimpleData name="URL">https://mobiliteit.stad.gent/met-de-auto/parkride-pr</SimpleData>
+                        <SimpleData name="Type">Park and Ride</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>3.710100042291582,51.00294509453818</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Parking.30">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Parking_1">
+                        <SimpleData name="parking">P+R</SimpleData>
+                        <SimpleData name="naam">Galveston</SimpleData>
+                        <SimpleData name="URL">https://mobiliteit.stad.gent/met-de-auto/parkride-pr</SimpleData>
+                        <SimpleData name="Type">Park and Ride</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>3.7219497497471172,51.07378772858094</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
