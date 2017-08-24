@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+<Schema name="Taxilocaties" id="Taxilocaties">
+<SimpleField type="int" name="FID"/>
+<SimpleField type="int" name="Id"/>
+</Schema>
+<name>Taxilocaties</name>
+<visibility>1</visibility>
+<Folder id="kml_ft_Taxilocaties">
+<name>Taxilocaties</name>
+<Placemark id="kml_1">
+<name>kml_1</name>
+<Snippet> </Snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>FID</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Id</th>
+<td>0</td>
+</tr></table></center>]]></description>
+<Style>
+<LineStyle>
+<color>ff0c8400</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Taxilocaties">
+<SimpleData name="FID">0</SimpleData>
+<SimpleData name="Id">0</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>3.7216085170393,51.0539900179236,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_2">
+<name>kml_2</name>
+<Snippet> </Snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>FID</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Id</th>
+<td>0</td>
+</tr></table></center>]]></description>
+<Style>
+<LineStyle>
+<color>ff0c8400</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Taxilocaties">
+<SimpleData name="FID">1</SimpleData>
+<SimpleData name="Id">0</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>3.73051140837344,51.0480871003761,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_3">
+<name>kml_3</name>
+<Snippet> </Snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>FID</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Id</th>
+<td>0</td>
+</tr></table></center>]]></description>
+<Style>
+<LineStyle>
+<color>ff0c8400</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Taxilocaties">
+<SimpleData name="FID">2</SimpleData>
+<SimpleData name="Id">0</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>3.71157505741356,51.036168474463,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_4">
+<name>kml_4</name>
+<Snippet> </Snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>FID</th>
+<td>3</td>
+</tr><tr bgcolor="">
+<th>Id</th>
+<td>0</td>
+</tr></table></center>]]></description>
+<Style>
+<LineStyle>
+<color>ff0c8400</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Taxilocaties">
+<SimpleData name="FID">3</SimpleData>
+<SimpleData name="Id">0</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>3.74008636853706,51.0563571617053,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_5">
+<name>kml_5</name>
+<Snippet> </Snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>FID</th>
+<td>4</td>
+</tr><tr bgcolor="">
+<th>Id</th>
+<td>0</td>
+</tr></table></center>]]></description>
+<Style>
+<LineStyle>
+<color>ff0c8400</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Taxilocaties">
+<SimpleData name="FID">4</SimpleData>
+<SimpleData name="Id">0</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>3.69210879400072,51.0254152697076,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_6">
+<name>kml_6</name>
+<Snippet> </Snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>FID</th>
+<td>5</td>
+</tr><tr bgcolor="">
+<th>Id</th>
+<td>0</td>
+</tr></table></center>]]></description>
+<Style>
+<LineStyle>
+<color>ff0c8400</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Taxilocaties">
+<SimpleData name="FID">5</SimpleData>
+<SimpleData name="Id">0</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>3.72278127976993,51.0507246853571,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_7">
+<name>kml_7</name>
+<Snippet> </Snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>FID</th>
+<td>6</td>
+</tr><tr bgcolor="">
+<th>Id</th>
+<td>0</td>
+</tr></table></center>]]></description>
+<Style>
+<LineStyle>
+<color>ff0c8400</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Taxilocaties">
+<SimpleData name="FID">6</SimpleData>
+<SimpleData name="Id">0</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>3.72232850270559,51.0507222042739,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_8">
+<name>kml_8</name>
+<Snippet> </Snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>FID</th>
+<td>7</td>
+</tr><tr bgcolor="">
+<th>Id</th>
+<td>0</td>
+</tr></table></center>]]></description>
+<Style>
+<LineStyle>
+<color>ff0c8400</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Taxilocaties">
+<SimpleData name="FID">7</SimpleData>
+<SimpleData name="Id">0</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>3.72368814670385,51.0506345122825,0 </coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document></kml>

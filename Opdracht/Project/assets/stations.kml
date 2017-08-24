@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Schema name="Stations_1" id="Stations_1">
+            <SimpleField type="string" name="Naam"/>
+        </Schema>
+        <Folder>
+            <name>Stations</name>
+            <Placemark id="Stations.1">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Stations_1">
+                        <SimpleData name="Naam">Station Evergem</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>3.702198037945954,51.10717867966027</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Stations.2">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Stations_1">
+                        <SimpleData name="Naam">Station Melle</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>3.7978791035356285,51.00260876309053</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Stations.3">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Stations_1">
+                        <SimpleData name="Naam">Station De Pinte</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>3.6495547150360315,50.996414044263354</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Stations.4">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Stations_1">
+                        <SimpleData name="Naam">Station Landegem</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>3.5757253106663716,51.06463049788015</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Stations.5">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Stations_1">
+                        <SimpleData name="Naam">Station Wondelgem</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>3.7194657085605374,51.0891075017557</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Stations.6">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Stations_1">
+                        <SimpleData name="Naam">Station Drongen</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>3.6557749635752823,51.04714144426817</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Stations.7">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Stations_1">
+                        <SimpleData name="Naam">Station Merelbeke</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>3.7643164113837337,51.01996120940527</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Stations.8">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Stations_1">
+                        <SimpleData name="Naam">Station Gentbrugge</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>3.756986685976381,51.038087620774085</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Stations.9">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Stations_1">
+                        <SimpleData name="Naam">Station Gent-Sint-Pieters</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>3.710813047708989,51.03609206495229</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="Stations.10">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#Stations_1">
+                        <SimpleData name="Naam">Station Gent-Dampoort</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>3.740276101991994,51.056226100879414</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

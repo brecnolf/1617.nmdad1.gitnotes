@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+<Schema name="Laadpunten" id="Laadpunten">
+<SimpleField type="int" name="FID"/>
+<SimpleField type="int" name="Id"/>
+<SimpleField type="string" name="type_voert"/>
+<SimpleField type="string" name="exploitant"/>
+<SimpleField type="string" name="eigenaar"/>
+<SimpleField type="string" name="beschikbaa"/>
+<SimpleField type="string" name="betaalsyst"/>
+<SimpleField type="short" name="aantal"/>
+</Schema>
+<name>Laadpunten</name>
+<visibility>1</visibility>
+<Folder id="kml_ft_Laadpunten">
+<name>Laadpunten</name>
+<Placemark id="kml_1">
+<name>kml_1</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>FID</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Id</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>type_voert</th>
+<td>auto</td>
+</tr><tr bgcolor="">
+<th>exploitant</th>
+<td>blue corner</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>eigenaar</th>
+<td>blue corner</td>
+</tr><tr bgcolor="">
+<th>beschikbaa</th>
+<td>2015</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>betaalsyst</th>
+<td>sms/abonnement</td>
+</tr><tr bgcolor="">
+<th>aantal</th>
+<td>2</td>
+</tr></table></center>]]></description>
+<Style>
+<LineStyle>
+<color>ff7900a8</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Laadpunten">
+<SimpleData name="FID">0</SimpleData>
+<SimpleData name="Id">0</SimpleData>
+<SimpleData name="type_voert">auto</SimpleData>
+<SimpleData name="exploitant">blue corner</SimpleData>
+<SimpleData name="eigenaar">blue corner</SimpleData>
+<SimpleData name="beschikbaa">2015</SimpleData>
+<SimpleData name="betaalsyst">sms/abonnement</SimpleData>
+<SimpleData name="aantal">2</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>3.70777306426007,51.049205022076,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_2">
+<name>kml_2</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>FID</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Id</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>type_voert</th>
+<td>fiets</td>
+</tr><tr bgcolor="">
+<th>exploitant</th>
+<td>blue corner</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>eigenaar</th>
+<td>blue corner</td>
+</tr><tr bgcolor="">
+<th>beschikbaa</th>
+<td>2015</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>betaalsyst</th>
+<td>sms/abonnement</td>
+</tr><tr bgcolor="">
+<th>aantal</th>
+<td>6</td>
+</tr></table></center>]]></description>
+<Style>
+<LineStyle>
+<color>ff7900a8</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Laadpunten">
+<SimpleData name="FID">1</SimpleData>
+<SimpleData name="Id">0</SimpleData>
+<SimpleData name="type_voert">fiets</SimpleData>
+<SimpleData name="exploitant">blue corner</SimpleData>
+<SimpleData name="eigenaar">blue corner</SimpleData>
+<SimpleData name="beschikbaa">2015</SimpleData>
+<SimpleData name="betaalsyst">sms/abonnement</SimpleData>
+<SimpleData name="aantal">6</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>3.70729349057797,51.0493283894632,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_3">
+<name>kml_3</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>FID</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Id</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>type_voert</th>
+<td>auto</td>
+</tr><tr bgcolor="">
+<th>exploitant</th>
+<td>blue corner</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>eigenaar</th>
+<td>blue corner</td>
+</tr><tr bgcolor="">
+<th>beschikbaa</th>
+<td>2015</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>betaalsyst</th>
+<td>sms/abonnement</td>
+</tr><tr bgcolor="">
+<th>aantal</th>
+<td>2</td>
+</tr></table></center>]]></description>
+<Style>
+<LineStyle>
+<color>ff7900a8</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Laadpunten">
+<SimpleData name="FID">2</SimpleData>
+<SimpleData name="Id">0</SimpleData>
+<SimpleData name="type_voert">auto</SimpleData>
+<SimpleData name="exploitant">blue corner</SimpleData>
+<SimpleData name="eigenaar">blue corner</SimpleData>
+<SimpleData name="beschikbaa">2015</SimpleData>
+<SimpleData name="betaalsyst">sms/abonnement</SimpleData>
+<SimpleData name="aantal">2</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>3.71851284099447,51.0535873986523,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_4">
+<name>kml_4</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>FID</th>
+<td>3</td>
+</tr><tr bgcolor="">
+<th>Id</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>type_voert</th>
+<td>auto</td>
+</tr><tr bgcolor="">
+<th>exploitant</th>
+<td>blue corner</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>eigenaar</th>
+<td>blue corner</td>
+</tr><tr bgcolor="">
+<th>beschikbaa</th>
+<td>2015</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>betaalsyst</th>
+<td>sms/abonnement</td>
+</tr><tr bgcolor="">
+<th>aantal</th>
+<td>2</td>
+</tr></table></center>]]></description>
+<Style>
+<LineStyle>
+<color>ff7900a8</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Laadpunten">
+<SimpleData name="FID">3</SimpleData>
+<SimpleData name="Id">0</SimpleData>
+<SimpleData name="type_voert">auto</SimpleData>
+<SimpleData name="exploitant">blue corner</SimpleData>
+<SimpleData name="eigenaar">blue corner</SimpleData>
+<SimpleData name="beschikbaa">2015</SimpleData>
+<SimpleData name="betaalsyst">sms/abonnement</SimpleData>
+<SimpleData name="aantal">2</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>3.73131396512181,51.0515833054301,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_5">
+<name>kml_5</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>FID</th>
+<td>4</td>
+</tr><tr bgcolor="">
+<th>Id</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>type_voert</th>
+<td>auto</td>
+</tr><tr bgcolor="">
+<th>exploitant</th>
+<td>blue corner</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>eigenaar</th>
+<td>blue corner</td>
+</tr><tr bgcolor="">
+<th>beschikbaa</th>
+<td>2015</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>betaalsyst</th>
+<td>sms/abonnement</td>
+</tr><tr bgcolor="">
+<th>aantal</th>
+<td>2</td>
+</tr></table></center>]]></description>
+<Style>
+<LineStyle>
+<color>ff7900a8</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Laadpunten">
+<SimpleData name="FID">4</SimpleData>
+<SimpleData name="Id">0</SimpleData>
+<SimpleData name="type_voert">auto</SimpleData>
+<SimpleData name="exploitant">blue corner</SimpleData>
+<SimpleData name="eigenaar">blue corner</SimpleData>
+<SimpleData name="beschikbaa">2015</SimpleData>
+<SimpleData name="betaalsyst">sms/abonnement</SimpleData>
+<SimpleData name="aantal">2</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>3.72575680098206,51.0417625983028,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_6">
+<name>kml_6</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>FID</th>
+<td>5</td>
+</tr><tr bgcolor="">
+<th>Id</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>type_voert</th>
+<td>fiets</td>
+</tr><tr bgcolor="">
+<th>exploitant</th>
+<td>blue corner</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>eigenaar</th>
+<td>blue corner</td>
+</tr><tr bgcolor="">
+<th>beschikbaa</th>
+<td>2015</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>betaalsyst</th>
+<td>sms/abonnement</td>
+</tr><tr bgcolor="">
+<th>aantal</th>
+<td>6</td>
+</tr></table></center>]]></description>
+<Style>
+<LineStyle>
+<color>ff7900a8</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Laadpunten">
+<SimpleData name="FID">5</SimpleData>
+<SimpleData name="Id">0</SimpleData>
+<SimpleData name="type_voert">fiets</SimpleData>
+<SimpleData name="exploitant">blue corner</SimpleData>
+<SimpleData name="eigenaar">blue corner</SimpleData>
+<SimpleData name="beschikbaa">2015</SimpleData>
+<SimpleData name="betaalsyst">sms/abonnement</SimpleData>
+<SimpleData name="aantal">6</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>3.72794392182306,51.0473571413691,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_7">
+<name>kml_7</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>FID</th>
+<td>6</td>
+</tr><tr bgcolor="">
+<th>Id</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>type_voert</th>
+<td>auto</td>
+</tr><tr bgcolor="">
+<th>exploitant</th>
+<td>blue corner</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>eigenaar</th>
+<td>blue corner</td>
+</tr><tr bgcolor="">
+<th>beschikbaa</th>
+<td>2015</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>betaalsyst</th>
+<td>sms/abonnement</td>
+</tr><tr bgcolor="">
+<th>aantal</th>
+<td>2</td>
+</tr></table></center>]]></description>
+<Style>
+<LineStyle>
+<color>ff7900a8</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Laadpunten">
+<SimpleData name="FID">6</SimpleData>
+<SimpleData name="Id">0</SimpleData>
+<SimpleData name="type_voert">auto</SimpleData>
+<SimpleData name="exploitant">blue corner</SimpleData>
+<SimpleData name="eigenaar">blue corner</SimpleData>
+<SimpleData name="beschikbaa">2015</SimpleData>
+<SimpleData name="betaalsyst">sms/abonnement</SimpleData>
+<SimpleData name="aantal">2</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>3.72791798040334,51.0470468542373,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_8">
+<name>kml_8</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>FID</th>
+<td>7</td>
+</tr><tr bgcolor="">
+<th>Id</th>
+<td>0</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>type_voert</th>
+<td>auto</td>
+</tr><tr bgcolor="">
+<th>exploitant</th>
+<td>blue corner</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>eigenaar</th>
+<td>blue corner</td>
+</tr><tr bgcolor="">
+<th>beschikbaa</th>
+<td>2015</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>betaalsyst</th>
+<td>sms/abonnement</td>
+</tr><tr bgcolor="">
+<th>aantal</th>
+<td>2</td>
+</tr></table></center>]]></description>
+<Style>
+<LineStyle>
+<color>ff7900a8</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Laadpunten">
+<SimpleData name="FID">7</SimpleData>
+<SimpleData name="Id">0</SimpleData>
+<SimpleData name="type_voert">auto</SimpleData>
+<SimpleData name="exploitant">blue corner</SimpleData>
+<SimpleData name="eigenaar">blue corner</SimpleData>
+<SimpleData name="beschikbaa">2015</SimpleData>
+<SimpleData name="betaalsyst">sms/abonnement</SimpleData>
+<SimpleData name="aantal">2</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>3.77541978657061,51.1197163161912,0 </coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document></kml>
