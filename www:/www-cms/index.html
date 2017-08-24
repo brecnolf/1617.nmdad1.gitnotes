@@ -1,0 +1,91 @@
+<!doctype html>
+<html class="no-js" lang="nl" dir="ltr" prefix="og: http://ogp.me/ns#">
+	<head>
+		<meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge,chrome=1">
+
+    <title>CMS App | Web and New Media | Artevelde University College Ghent</title>
+    <meta name="description" content="gdm.gent frontend boilerplate for the mass. We want the share all or knowledge on webtechnologies with you all :)">
+    <meta name="keywords" content="HTML5, CSS3, JavaScript, jQuery, Responsive, Grid">
+    <meta name="author" content="gdm.gent | Bachelor of Graphic and Digital Media | Artevelde University College Ghent">
+    <meta name="copyright" content="Copyright 2010-16 Artevelde University College Ghent. All Rights Reserved.">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <!-- prefetch dns -->
+    <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+    <link rel="dns-prefetch" href="//cdn.jsdelivr.net">
+    <link rel="dns-prefetch" href="//fonts.googleapis.com">
+
+    <!-- CSS-libraries -->
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="https://code.getmdl.io/1.2.1/material.min.css">
+
+    <!-- My Own StyleSheets:  main.js -->
+		<link rel="stylesheet" href="./css/main.css">
+
+	</head>
+	<body>
+
+    <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header mdl-layout--fixed-tabs">
+      <header class="mdl-layout__header">
+        <div class="mdl-layout__header-row">
+          <span class="mdl-layout-title">AHS - CMS</span>
+        </div>
+        <!-- Tabs -->
+        <div class="mdl-layout__tab-bar mdl-js-ripple-effect">
+          <a href="#fixed-tab-posts-list" class="mdl-layout__tab is-active">Posts</a>
+          <a href="#fixed-tab-posts-create" class="mdl-layout__tab">Create New Post</a>
+        </div>
+      </header>
+      <div class="mdl-layout__drawer">
+        <span class="mdl-layout-title">AHS - CMS</span>
+      </div>
+      <main class="mdl-layout__content">
+        <section class="mdl-layout__tab-panel is-active" id="fixed-tab-posts-list">
+          <div class="page-content">
+            <div class="mdl-grid list-posts">
+            </div>
+          </div>
+        </section>
+        <section class="mdl-layout__tab-panel" id="fixed-tab-posts-create">
+          <div class="page-content">
+            <div class="mdl-grid frm-post-create-container">
+              <div class="mdl-cell mdl-cell--12-col">
+                <form id="frm-post-create" class="mdl-grid mdl-card mdl-cell mdl-cell--12-col-desktop mdl-cell--12-col-tablet mdl-cell--12-col-phone  mdl-shadow--2dp">
+                  <fieldset>
+                    <legend>Create a new Post</legend>
+                    <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label mdl-cell--12-col">
+                      <input class="mdl-textfield__input" type="text" name="txtTitle" id="txtTitle">
+                      <label class="mdl-textfield__label" for="txtTitle">Title...</label>
+                    </div>
+                    <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label mdl-cell--12-col">
+                      <textarea class="mdl-textfield__input" type="text" rows= "3" name="txtSynopsis"  id="txtSynopsis"></textarea>
+                      <label class="mdl-textfield__label" for="txtSynopsis">Synopsis...</label>
+                    </div>
+                    <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label mdl-cell--12-col">
+                      <textarea class="mdl-textfield__input" type="text" rows= "10" name="txtStory"  id="txtStory"></textarea>
+                      <label class="mdl-textfield__label" for="txtStory">Story...</label>
+                    </div>
+                    <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect">Create</button>
+                  </fieldset>
+                </form>
+              </div>
+            </div>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <!-- External JS-libraries: None at this moment -->
+    <script src="https://code.getmdl.io/1.2.1/material.min.js"></script>
+
+    <!-- My Own Scripts: Main Script -->
+    <script src="js/utils.js"></script>
+    <script src="js/helpers.js"></script>
+    <script src="js/models.js"></script>
+    <script src="js/services.js"></script>
+    <script src="js/main.js"></script>
+
+	</body>
+</html>

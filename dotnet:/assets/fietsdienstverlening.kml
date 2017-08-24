@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+<Schema name="Fietsdienstverlening" id="Fietsdienstverlening">
+<SimpleField type="int" name="FID"/>
+<SimpleField type="double" name="Id"/>
+<SimpleField type="string" name="Label"/>
+<SimpleField type="string" name="Type"/>
+<SimpleField type="string" name="adres"/>
+<SimpleField type="string" name="Link"/>
+</Schema>
+<name>Fietsdienstverlening</name>
+<visibility>1</visibility>
+<Folder id="kml_ft_Fietsdienstverlening">
+<name>Fietsdienstverlening</name>
+<Placemark id="kml_1">
+<name>kml_1</name>
+<Snippet> </Snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>FID</th>
+<td>0</td>
+</tr><tr bgcolor="">
+<th>Id</th>
+<td>3</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Label</th>
+<td>C</td>
+</tr><tr bgcolor="">
+<th>Type</th>
+<td>Fietspunt Sint Pieters -  MaxMobiel</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>adres</th>
+<td>Voskenslaan 27, 9000 Gent</td>
+</tr><tr bgcolor="">
+<th>Link</th>
+<td>www.max-mobiel.be</td>
+</tr></table></center>]]></description>
+<Style>
+<LineStyle>
+<color>ff00419c</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Fietsdienstverlening">
+<SimpleData name="FID">0</SimpleData>
+<SimpleData name="Id">3</SimpleData>
+<SimpleData name="Label">C</SimpleData>
+<SimpleData name="Type">Fietspunt Sint Pieters -  MaxMobiel</SimpleData>
+<SimpleData name="adres">Voskenslaan 27, 9000 Gent</SimpleData>
+<SimpleData name="Link">www.max-mobiel.be</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>3.70828000890065,51.0345561393443,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_2">
+<name>kml_2</name>
+<Snippet> </Snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>FID</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Id</th>
+<td>2</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Label</th>
+<td>B</td>
+</tr><tr bgcolor="">
+<th>Type</th>
+<td>StudentEnMobiliteit</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>adres</th>
+<td>Kattenberg 2, 9000 Gent</td>
+</tr><tr bgcolor="">
+<th>Link</th>
+<td>www.studentenmobiliteit.be</td>
+</tr></table></center>]]></description>
+<Style>
+<LineStyle>
+<color>ff00419c</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Fietsdienstverlening">
+<SimpleData name="FID">1</SimpleData>
+<SimpleData name="Id">2</SimpleData>
+<SimpleData name="Label">B</SimpleData>
+<SimpleData name="Type">StudentEnMobiliteit</SimpleData>
+<SimpleData name="adres">Kattenberg 2, 9000 Gent</SimpleData>
+<SimpleData name="Link">www.studentenmobiliteit.be</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>3.72341655335761,51.0426479760435,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_3">
+<name>kml_3</name>
+<Snippet> </Snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>FID</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Id</th>
+<td>1</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Label</th>
+<td>A</td>
+</tr><tr bgcolor="">
+<th>Type</th>
+<td>FietsenDepot</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>adres</th>
+<td>Academiestraat  6, 9000 Gent</td>
+</tr><tr bgcolor="">
+<th>Link</th>
+<td> </td>
+</tr></table></center>]]></description>
+<Style>
+<LineStyle>
+<color>ff00419c</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Fietsdienstverlening">
+<SimpleData name="FID">2</SimpleData>
+<SimpleData name="Id">1</SimpleData>
+<SimpleData name="Label">A</SimpleData>
+<SimpleData name="Type">FietsenDepot</SimpleData>
+<SimpleData name="adres">Academiestraat  6, 9000 Gent</SimpleData>
+<SimpleData name="Link"> </SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>3.71949772376478,51.059460736383,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_4">
+<name>kml_4</name>
+<Snippet> </Snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>FID</th>
+<td>3</td>
+</tr><tr bgcolor="">
+<th>Id</th>
+<td>4</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Label</th>
+<td>D</td>
+</tr><tr bgcolor="">
+<th>Type</th>
+<td>Fietspunt Dampoort - MaxMobiel</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>adres</th>
+<td>thv Dampoortstation</td>
+</tr><tr bgcolor="">
+<th>Link</th>
+<td>www.max-mobiel.be</td>
+</tr></table></center>]]></description>
+<Style>
+<LineStyle>
+<color>ff00419c</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Fietsdienstverlening">
+<SimpleData name="FID">3</SimpleData>
+<SimpleData name="Id">4</SimpleData>
+<SimpleData name="Label">D</SimpleData>
+<SimpleData name="Type">Fietspunt Dampoort - MaxMobiel</SimpleData>
+<SimpleData name="adres">thv Dampoortstation</SimpleData>
+<SimpleData name="Link">www.max-mobiel.be</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>3.74017843170377,51.0566724784008,0 </coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_5">
+<name>kml_5</name>
+<Snippet> </Snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>FID</th>
+<td>4</td>
+</tr><tr bgcolor="">
+<th>Id</th>
+<td>5</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Label</th>
+<td>E</td>
+</tr><tr bgcolor="">
+<th>Type</th>
+<td>Fietspunt Stadshal - MaxMobiel</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>adres</th>
+<td>Emiel Braunplein</td>
+</tr><tr bgcolor="">
+<th>Link</th>
+<td>www.max-mobiel.be</td>
+</tr></table></center>]]></description>
+<Style>
+<LineStyle>
+<color>ff00419c</color>
+</LineStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#Fietsdienstverlening">
+<SimpleData name="FID">4</SimpleData>
+<SimpleData name="Id">5</SimpleData>
+<SimpleData name="Label">E</SimpleData>
+<SimpleData name="Type">Fietspunt Stadshal - MaxMobiel</SimpleData>
+<SimpleData name="adres">Emiel Braunplein</SimpleData>
+<SimpleData name="Link">www.max-mobiel.be</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>3.72405833318431,51.054030204599,0 </coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document></kml>
